@@ -2,7 +2,7 @@
 
 Available Commands:
 
-.think"""
+.piu"""
 
 from telethon import events
 
