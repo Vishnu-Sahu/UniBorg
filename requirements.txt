@@ -1,0 +1,3 @@
+telethon==1.10.3
+coffeehouse==1.0.4
+-r ./requirements-stdborg.txt
