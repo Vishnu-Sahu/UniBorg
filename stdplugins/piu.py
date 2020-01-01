@@ -17,7 +17,7 @@ async def _(event):
     animation_interval = 0.01
     animation_ttl = range(0, 288)
     input_str = event.pattern_match.group(1)
-    if input_str == "piu":
+    if input_str == "kevin":
         await event.edit(input_str)
         animation_chars = [
             "⚡KEVIN⚡",
