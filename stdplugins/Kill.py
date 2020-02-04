@@ -50,7 +50,7 @@ async def _(event):
             "------------------>",    
             "------>;(^。^)ノ",
             "(￣ー￣) DED",
-            "**Target killed successfully don't mess with @iamkevinbest  (°̥̥̥̥̥̥̥̥•̀.̫•́°̥̥̥̥̥̥̥)**",
+            "**Target killed successfully don't mess with @vishnusahu  (°̥̥̥̥̥̥̥̥•̀.̫•́°̥̥̥̥̥̥̥)**",
         ]
 
         for i in animation_ttl:
